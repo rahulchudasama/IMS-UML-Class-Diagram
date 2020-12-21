@@ -1,1 +1,0 @@
-# IMS-UML-Class-Diagram
